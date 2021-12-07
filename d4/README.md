@@ -1,4 +1,6 @@
 # Advent of code day 4
+### Puzzle
+https://adventofcode.com/2021/day/4
 
 ### Notes
 - I initially implemented in Python and decided I didn't like it for this!

@@ -1,4 +1,6 @@
 # Advent of code day 5
+### Puzzle
+https://adventofcode.com/2021/day/5
 
 ### Notes
 - This one was fun! It's become a trend now, but I'm super curious
